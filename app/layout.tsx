@@ -28,6 +28,12 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         {children}
+
+        <div className="fixed bottom-0 left-0 right-0 p-4 bg-gray-900 text-white text-center z-50">
+          <p className="text-sm">
+            Built with ❤️ by <a href="https://github.com/jattu8602" className="underline">Jattu</a>
+          </p>
+        </div>
       </body>
     </html>
   );
