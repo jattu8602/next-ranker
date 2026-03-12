@@ -1,20 +1,331 @@
-// This is your Prisma schema file,
-// learn more about it in the docs: https://pris.ly/d/prisma-schema
-
-// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
-// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
-
 generator client {
-  provider = "prisma-client"
-  output   = "../lib/generated/prisma"
+  provider = "prisma-client-js"
 }
 
 datasource db {
-  provider = "mongodb"
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
 }
 
+//////////////////////////////////////////////////////
+// ENUMS
+//////////////////////////////////////////////////////
+
+enum Role {
+  ADMIN
+  EXAM_HANDLER
+  USER
+}
+
+enum Difficulty {
+  EASY
+  MEDIUM
+  HARD
+}
+
+enum TestStatus {
+  DRAFT
+  PUBLISHED
+}
+
+//////////////////////////////////////////////////////
+// USERS
+//////////////////////////////////////////////////////
+
 model User {
-  id    String  @id @default(auto()) @map("_id") @db.ObjectId
-  email String  @unique
-  name  String?
+  id        String   @id @default(cuid())
+  name      String?
+  email     String   @unique
+  password  String
+  role      Role     @default(USER)
+  createdAt DateTime @default(now())
+
+  handledExams  ExamHandlerExam[]
+  attempts      Attempt[]
+  liveAttempts  LiveAttempt[]
+  subscriptions UserSubscription[]
+}
+
+//////////////////////////////////////////////////////
+// CATEGORIES & EXAMS
+//////////////////////////////////////////////////////
+
+model Category {
+  id    String @id @default(cuid())
+  name  String
+  slug  String @unique
+
+  exams Exam[]
+}
+
+model Exam {
+  id        String   @id @default(cuid())
+  name      String
+  slug      String   @unique
+  categoryId String
+  createdAt DateTime @default(now())
+
+  category Category @relation(fields: [categoryId], references: [id])
+
+  handlers   ExamHandlerExam[]
+  tests      Test[]
+  testSeries TestSeries[]
+  liveTests  LiveTest[]
+  syllabus   ExamSyllabus[]
+  topics     Topic[]
+  ranks      ExamRank[]
+}
+
+//////////////////////////////////////////////////////
+// EXAM HANDLERS
+//////////////////////////////////////////////////////
+
+model ExamHandlerExam {
+  id        String @id @default(cuid())
+  handlerId String
+  examId    String
+
+  handler User @relation(fields: [handlerId], references: [id])
+  exam    Exam @relation(fields: [examId], references: [id])
+
+  @@unique([handlerId, examId])
+}
+
+//////////////////////////////////////////////////////
+// TESTS
+//////////////////////////////////////////////////////
+
+model Test {
+  id            String @id @default(cuid())
+  title         String
+  examId        String
+  duration      Int
+  totalMarks    Int
+  negativeMarks Float  @default(0)
+  isPaid        Boolean @default(false)
+  status        TestStatus @default(DRAFT)
+
+  createdAt DateTime @default(now())
+
+  exam Exam @relation(fields: [examId], references: [id])
+
+  questions   Question[]
+  attempts    Attempt[]
+  testSeries  TestSeriesTest[]
+  leaderboard Leaderboard[]
+}
+
+//////////////////////////////////////////////////////
+// QUESTIONS
+//////////////////////////////////////////////////////
+
+model Question {
+  id       String @id @default(cuid())
+  question String
+
+  optionA String
+  optionB String
+  optionC String
+  optionD String
+
+  correct String
+  marks   Int
+
+  difficulty Difficulty @default(MEDIUM)
+  aiScore    Float?
+
+  testId String
+  test   Test @relation(fields: [testId], references: [id])
+
+  topics QuestionTopic[]
+  stats  QuestionStats?
+}
+
+//////////////////////////////////////////////////////
+// TOPICS
+//////////////////////////////////////////////////////
+
+model Topic {
+  id        String @id @default(cuid())
+  name      String
+  examId    String
+  createdAt DateTime @default(now())
+
+  exam Exam @relation(fields: [examId], references: [id])
+
+  questions QuestionTopic[]
+}
+
+model QuestionTopic {
+  id         String @id @default(cuid())
+  questionId String
+  topicId    String
+
+  question Question @relation(fields: [questionId], references: [id])
+  topic    Topic    @relation(fields: [topicId], references: [id])
+
+  @@unique([questionId, topicId])
+}
+
+//////////////////////////////////////////////////////
+// TEST SERIES
+//////////////////////////////////////////////////////
+
+model TestSeries {
+  id     String @id @default(cuid())
+  title  String
+  examId String
+  isPaid Boolean @default(false)
+  price  Float?
+
+  exam Exam @relation(fields: [examId], references: [id])
+
+  tests TestSeriesTest[]
+}
+
+model TestSeriesTest {
+  id           String @id @default(cuid())
+  testSeriesId String
+  testId       String
+
+  testSeries TestSeries @relation(fields: [testSeriesId], references: [id])
+  test       Test       @relation(fields: [testId], references: [id])
+
+  @@unique([testSeriesId, testId])
+}
+
+//////////////////////////////////////////////////////
+// ATTEMPTS
+//////////////////////////////////////////////////////
+
+model Attempt {
+  id        String @id @default(cuid())
+  userId    String
+  testId    String
+  score     Int
+  timeTaken Int?
+
+  createdAt DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id])
+  test Test @relation(fields: [testId], references: [id])
+}
+
+//////////////////////////////////////////////////////
+// LEADERBOARD
+//////////////////////////////////////////////////////
+
+model Leaderboard {
+  id        String @id @default(cuid())
+  testId    String
+  userId    String
+  score     Int
+  rank      Int
+  timeTaken Int
+
+  createdAt DateTime @default(now())
+
+  test Test @relation(fields: [testId], references: [id])
+  user User @relation(fields: [userId], references: [id])
+
+  @@unique([testId, userId])
+}
+
+//////////////////////////////////////////////////////
+// LIVE TESTS
+//////////////////////////////////////////////////////
+
+model LiveTest {
+  id            String   @id @default(cuid())
+  title         String
+  examId        String
+  startTime     DateTime
+  duration      Int
+  questionCount Int
+  isPaid        Boolean @default(false)
+
+  exam Exam @relation(fields: [examId], references: [id])
+
+  attempts LiveAttempt[]
+}
+
+model LiveAttempt {
+  id         String @id @default(cuid())
+  userId     String
+  liveTestId String
+  score      Int
+
+  user     User     @relation(fields: [userId], references: [id])
+  liveTest LiveTest @relation(fields: [liveTestId], references: [id])
+}
+
+//////////////////////////////////////////////////////
+// SUBSCRIPTIONS
+//////////////////////////////////////////////////////
+
+model SubscriptionPlan {
+  id          String @id @default(cuid())
+  name        String
+  price       Float
+  duration    Int
+  description String?
+
+  createdAt DateTime @default(now())
+
+  users UserSubscription[]
+}
+
+model UserSubscription {
+  id        String @id @default(cuid())
+  userId    String
+  planId    String
+  startDate DateTime
+  endDate   DateTime
+
+  user User @relation(fields: [userId], references: [id])
+  plan SubscriptionPlan @relation(fields: [planId], references: [id])
+}
+
+//////////////////////////////////////////////////////
+// SYLLABUS
+//////////////////////////////////////////////////////
+
+model ExamSyllabus {
+  id          String @id @default(cuid())
+  examId      String
+  subject     String
+  topic       String
+  description String?
+
+  exam Exam @relation(fields: [examId], references: [id])
+}
+
+//////////////////////////////////////////////////////
+// EXAM RANKING
+//////////////////////////////////////////////////////
+
+model ExamRank {
+  id     String @id @default(cuid())
+  examId String
+  userId String
+  score  Int
+  rank   Int
+
+  exam Exam @relation(fields: [examId], references: [id])
+  user User @relation(fields: [userId], references: [id])
+
+  @@unique([examId, userId])
+}
+
+//////////////////////////////////////////////////////
+// QUESTION ANALYTICS
+//////////////////////////////////////////////////////
+
+model QuestionStats {
+  id          String @id @default(cuid())
+  questionId  String
+  attempts    Int
+  correctRate Float
+
+  question Question @relation(fields: [questionId], references: [id])
 }

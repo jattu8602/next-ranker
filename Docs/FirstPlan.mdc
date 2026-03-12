@@ -1,0 +1,3467 @@
+
+
+
+
+next-ranker - this is the platform i m gonna make - i want  to list each and every exam here  with free and paid tests for students
+
+can you tell me how much exams are their in inida happend from too much small exams to govt exam s tooenterence exams and everything
+
+give me exams list
+
+If you are building “Next-Ranker”, this is actually a very big opportunity. India has hundreds of exams across categories. Rough estimates show ~300+ entrance exams and 50+ major government job exams, plus hundreds of state-level and university exams.
+
+So your platform could easily host 500–1000+ exams if you include national, state, university, scholarship, and private exams.
+
+🇮🇳 Complete Exam Ecosystem in India (For Your Platform)
+1️⃣ UPSC Exams (Top Govt Exams)
+These are the most prestigious exams.
+
+Civil Services Examination (IAS, IPS, IFS)
+
+Indian Forest Service (IFoS)
+
+Engineering Services Examination (ESE)
+
+Combined Defence Services (CDS)
+
+NDA & NA
+
+Combined Medical Services (CMS)
+
+Indian Economic Service (IES)
+
+Indian Statistical Service (ISS)
+
+CAPF (Assistant Commandant)
+
+Geo-Scientist Exam
+
+2️⃣ SSC Exams
+Staff Selection Commission conducts many central government recruitment exams.
+
+SSC CGL
+
+SSC CHSL
+
+SSC MTS
+
+SSC CPO
+
+SSC GD Constable
+
+SSC JE
+
+SSC JHT
+
+SSC Stenographer
+
+SSC Selection Post
+
+3️⃣ Banking Exams
+Conducted by SBI, IBPS, RBI etc.
+
+SBI PO
+
+SBI Clerk
+
+SBI SO
+
+IBPS PO
+
+IBPS Clerk
+
+IBPS SO
+
+IBPS RRB Officer
+
+IBPS RRB Clerk
+
+RBI Grade B
+
+RBI Assistant
+
+NABARD Grade A
+
+NABARD Grade B
+
+4️⃣ Railway Exams (RRB)
+Railways recruits huge numbers.
+
+RRB NTPC
+
+RRB Group D
+
+RRB ALP
+
+RRB Technician
+
+RRB JE
+
+RPF Constable
+
+RPF SI
+
+5️⃣ Defence Exams
+For army, navy, airforce.
+
+NDA
+
+CDS
+
+AFCAT
+
+INET
+
+Agniveer Army
+
+Agniveer Navy
+
+Agniveer Airforce
+
+Territorial Army
+
+6️⃣ Teaching Exams
+CTET
+
+UPTET
+
+HTET
+
+REET
+
+Super TET
+
+KVS Recruitment
+
+NVS Recruitment
+
+7️⃣ State PSC Exams
+Every state has its own PSC exam.
+
+Examples:
+
+UPPSC
+
+MPPSC
+
+BPSC
+
+RPSC
+
+GPSC
+
+HPSC
+
+MPSC
+
+TNPSC
+
+WBPSC
+
+8️⃣ Engineering Entrance Exams
+JEE Main
+
+JEE Advanced
+
+BITSAT
+
+VITEEE
+
+SRMJEEE
+
+COMEDK
+
+MHT CET
+
+WBJEE
+
+KCET
+
+9️⃣ Medical Entrance Exams
+NEET UG
+
+NEET PG
+
+INI CET
+
+AIIMS Nursing
+
+JIPMER Nursing
+
+🔟 Law Entrance Exams
+CLAT
+
+AILET
+
+LSAT India
+
+MH CET Law
+
+SLAT
+
+1️⃣1️⃣ Management Exams
+CAT
+
+XAT
+
+NMAT
+
+SNAP
+
+CMAT
+
+MAT
+
+ATMA
+
+1️⃣2️⃣ Design / Creative Exams
+NIFT Entrance
+
+NID DAT
+
+UCEED
+
+CEED
+
+1️⃣3️⃣ Commerce / Professional Exams
+CA Foundation
+
+CA Intermediate
+
+CA Final
+
+CMA
+
+CS Foundation
+
+CS Executive
+
+CS Professional
+
+1️⃣4️⃣ Scholarship / Olympiad Exams
+NTSE
+
+KVPY
+
+INSPIRE
+
+IMO
+
+NSO
+
+NSTSE
+
+1️⃣5️⃣ University Entrance Exams
+CUET UG
+
+CUET PG
+
+IPU CET
+
+BHU UET
+
+AMU Entrance
+
+TISSNET
+
+1️⃣6️⃣ Police & Judiciary Exams
+State Police SI
+
+State Police Constable
+
+Judiciary PCS-J
+
+High Court Clerk
+
+Delhi Police
+
+📊 Rough Total for Your Platform
+Category	Approx Exams
+Government Jobs	150+
+Engineering	40+
+Medical	20+
+Law	15+
+Management	25+
+Teaching	30+
+State Exams	200+
+University Exams	150+
+✅ Total Potential Exams: 500–1000+
+
+🧠 How Big Platforms Organize Exams
+Platforms like Testbook / Adda247 / Unacademy organize exams like this:
+
+Exam
+ ├ Category
+ │ ├ Govt
+ │ ├ Entrance
+ │ ├ Scholarship
+ │ └ University
+ ├ Exam Name
+ ├ Syllabus
+ ├ Previous Papers
+ ├ Free Tests
+ └ Paid Tests
+💡 BIG Suggestion for Your Platform (Very Important)
+For Next-Ranker, structure like this:
+
+Exam Category
+   |
+   ├ Government Exams
+   ├ Engineering
+   ├ Medical
+   ├ MBA
+   ├ Law
+   ├ Design
+   ├ Banking
+   ├ Railways
+   ├ Defence
+   ├ Teaching
+   ├ State Exams
+   └ University Exams
+Then each exam contains:
+
+Test Series
+
+Mock Tests
+
+Previous Papers
+
+Quiz
+
+Notes
+
+✅ If you want, I can also give you:
+
+Complete list of 500+ exams (database ready for your website)
+
+Best database schema for Next-Ranker
+
+How Testbook / Unacademy build their exam platforms
+
+Monetization strategy to earn ₹10L+ from this platform
+
+Just tell me and I’ll design the full blueprint for you.
+
+
+this is it or more can be incategory - Exam Category
+   |
+   ├ Government Exams
+   ├ Engineering
+   ├ Medical
+   ├ MBA
+   ├ Law
+   ├ Design
+   ├ Banking
+   ├ Railways
+   ├ Defence
+   ├ Teaching
+   ├ State Exams
+   └ University Exams
+
+Your category list is good but still incomplete for a large platform like Next-Ranker. If you want to list every exam in India, you should design categories a bit more granular. Competitive exams in India are usually grouped by purpose: job recruitment, college admission, professional certification, or scholarships.
+
+Below is a better and more scalable category structure (like Testbook / Careers360 type platforms).
+
+✅ Recommended Exam Categories for Your Platform
+Exam Categories
+│
+├ Government Jobs
+│   ├ UPSC
+│   ├ SSC
+│   ├ Banking
+│   ├ Railways
+│   ├ Defence
+│   ├ Teaching
+│   ├ Police
+│   ├ Judiciary
+│   └ State PSC
+│
+├ Engineering Entrance
+│
+├ Medical Entrance
+│
+├ MBA / Management
+│
+├ Law Entrance
+│
+├ Design & Architecture
+│
+├ Commerce / Professional
+│   ├ CA
+│   ├ CS
+│   ├ CMA
+│   └ CFA
+│
+├ Science & Research
+│   ├ GATE
+│   ├ IIT JAM
+│   ├ UGC NET
+│   └ CSIR NET
+│
+├ Study Abroad Exams
+│   ├ GRE
+│   ├ GMAT
+│   ├ IELTS
+│   ├ TOEFL
+│   └ SAT
+│
+├ Scholarship / Olympiad
+│   ├ NTSE
+│   ├ KVPY
+│   ├ IMO
+│   ├ NSO
+│   └ NSTSE
+│
+├ University Entrance
+│
+├ Diploma / Polytechnic
+│
+└ Skill & Certification Exams
+🎯 Much Better Structure (Production Level)
+If you want Next-Ranker to scale to 1000+ exams, organize it like this:
+
+Exam
+   ├ Category
+   │     ├ Government
+   │     ├ Entrance
+   │     ├ Professional
+   │     ├ Scholarship
+   │     └ International
+   │
+   ├ SubCategory
+   │     ├ Banking
+   │     ├ Engineering
+   │     ├ Medical
+   │     ├ Law
+   │     ├ MBA
+   │     └ etc
+   │
+   └ Exams
+         ├ UPSC
+         ├ JEE
+         ├ NEET
+         ├ CAT
+         ├ SSC
+         └ etc
+🔥 Example Real Platform Hierarchy
+Example:
+
+Government Exams
+   ├ UPSC
+   │     ├ IAS
+   │     ├ IFS
+   │     └ CAPF
+   │
+   ├ SSC
+   │     ├ CGL
+   │     ├ CHSL
+   │     └ MTS
+   │
+   ├ Banking
+   │     ├ SBI PO
+   │     ├ IBPS PO
+   │     └ RBI Grade B
+📊 If You Build It Correctly
+Your platform can easily support:
+
+Level	Count
+Categories	12-15
+Subcategories	50-80
+Total Exams	700-1200
+💡 Important Suggestion (Very Important)
+For Next-Ranker, you should also add:
+
+📚 Previous Year Papers
+
+🧠 Topic wise tests
+
+🎯 Full Mock Tests
+
+📊 Rank leaderboard
+
+📅 Exam Calendar
+
+This is how platforms like Testbook / Adda247 / Unacademy grow.
+
+✅ If you want, I can also give you something very useful for your project:
+
+Complete list of 1000+ exams in India (ready for database seed)
+
+Best database schema for Next-Ranker
+
+Best features to beat Testbook
+
+How to get first 10,000 users
+
+Just tell me — I can design the full system architecture for your platform. 🚀
+
+
+i m thinking to list these all exams in sidenav  - and in next js  creating each folder   +
+
+db pe kese store karu whitin that route or something else
+
+Good question. For a platform like Next-Ranker, you should NOT create a folder for every exam in Next.js. That will become impossible to maintain when you reach 500–1000 exams.
+
+Instead, use dynamic routes + database.
+
+🧠 Correct Architecture (Used by Real Platforms)
+❌ Bad Approach
+/app/exams/upsc/page.tsx
+/app/exams/jee/page.tsx
+/app/exams/neet/page.tsx
+/app/exams/cat/page.tsx
+If you have 1000 exams → 1000 folders 😵
+
+✅ Correct Approach
+Use dynamic routing.
+
+/app/exams/[examSlug]/page.tsx
+Examples generated automatically:
+
+/exams/upsc
+/exams/jee-main
+/exams/neet
+/exams/cat
+/exams/ssc-cgl
+All handled by one file.
+
+🗂 Database Structure (Very Important)
+You should create three main tables.
+
+1️⃣ Categories Table
+categories
+-----------
+id
+name
+slug
+icon
+order
+Example:
+
+id	name	slug
+1	Government Exams	government
+2	Engineering	engineering
+3	Medical	medical
+2️⃣ SubCategories Table
+subcategories
+--------------
+id
+category_id
+name
+slug
+Example:
+
+id	category_id	name
+1	1	UPSC
+2	1	SSC
+3	1	Banking
+3️⃣ Exams Table
+exams
+---------
+id
+subcategory_id
+name
+slug
+description
+is_paid
+created_at
+Example:
+
+id	subcategory	name	slug
+1	UPSC	Civil Services	upsc-cse
+2	SSC	SSC CGL	ssc-cgl
+3	Engineering	JEE Main	jee-main
+⚡ Next.js Dynamic Page Example
+/app/exams/[slug]/page.tsx
+import prisma from "@/lib/prisma"
+
+export default async function ExamPage({ params }) {
+
+  const exam = await prisma.exam.findUnique({
+    where: {
+      slug: params.slug
+    }
+  })
+
+  return (
+    <div>
+      <h1>{exam.name}</h1>
+      <p>{exam.description}</p>
+    </div>
+  )
+}
+Now one page handles all exams.
+
+📌 Side Navbar Structure
+Your sidenav should come from database, not hardcoded.
+
+Example UI:
+
+Government Exams
+   ├ UPSC
+   │    ├ IAS
+   │    ├ IFS
+   │
+   ├ SSC
+   │    ├ CGL
+   │    ├ CHSL
+   │
+Engineering
+   ├ JEE Main
+   ├ JEE Advanced
+Fetch it like:
+
+const categories = await prisma.category.findMany({
+  include: {
+    subcategories: {
+      include: {
+        exams: true
+      }
+    }
+  }
+})
+🚀 Even Better URL Structure
+Make nested routes.
+
+/exams/government/upsc
+/exams/government/ssc-cgl
+/exams/engineering/jee-main
+Dynamic route:
+
+/app/exams/[category]/[exam]/page.tsx
+🔥 Pro Tip (Very Important for SEO)
+Each exam page should include:
+
+syllabus
+
+previous papers
+
+mock tests
+
+exam pattern
+
+exam dates
+
+Example:
+
+/exams/jee-main/syllabus
+/exams/jee-main/mock-test
+/exams/jee-main/previous-papers
+🧩 Final Architecture
+Next.js
+   |
+   ├ Dynamic Routes
+   │      /exams/[slug]
+   │
+   ├ Database
+   │      categories
+   │      subcategories
+   │      exams
+   │      tests
+   │
+   └ Sidebar Generated from DB
+✅ Since you already use Next.js + Prisma + Mongo/Postgres, this approach will scale to 10,000+ exams easily.
+
+💡 If you want, I can also show you how Testbook-like platforms structure their database (real scalable schema) which will save you months of redesign later.
+
+
+can you give me a prisma schema
+
+Since you’re building Next-Ranker (a test-series platform), your Prisma schema should support:
+
+Categories
+
+Subcategories
+
+Exams
+
+Test Series
+
+Tests
+
+Questions
+
+Users
+
+Attempts
+
+This structure will scale to 1000+ exams and millions of attempts.
+
+Below is a production-ready Prisma schema design.
+
+🧩 Prisma Schema (Next-Ranker)
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"   // or mongodb if you prefer
+  url      = env("DATABASE_URL")
+}
+
+model Category {
+  id        String   @id @default(cuid())
+  name      String
+  slug      String   @unique
+  icon      String?
+  createdAt DateTime @default(now())
+
+  subcategories SubCategory[]
+}
+
+model SubCategory {
+  id          String   @id @default(cuid())
+  name        String
+  slug        String   @unique
+  categoryId  String
+  createdAt   DateTime @default(now())
+
+  category Category @relation(fields: [categoryId], references: [id])
+  exams    Exam[]
+}
+
+model Exam {
+  id            String   @id @default(cuid())
+  name          String
+  slug          String   @unique
+  description   String?
+  subCategoryId String
+  createdAt     DateTime @default(now())
+
+  subCategory SubCategory @relation(fields: [subCategoryId], references: [id])
+  testSeries  TestSeries[]
+}
+
+model TestSeries {
+  id        String   @id @default(cuid())
+  title     String
+  price     Float
+  examId    String
+  createdAt DateTime @default(now())
+
+  exam  Exam   @relation(fields: [examId], references: [id])
+  tests Test[]
+}
+
+model Test {
+  id           String   @id @default(cuid())
+  title        String
+  duration     Int      // minutes
+  totalMarks   Int
+  testSeriesId String
+  createdAt    DateTime @default(now())
+
+  testSeries TestSeries @relation(fields: [testSeriesId], references: [id])
+  questions  Question[]
+  attempts   Attempt[]
+}
+
+model Question {
+  id        String   @id @default(cuid())
+  question  String
+  optionA   String
+  optionB   String
+  optionC   String
+  optionD   String
+  correct   String
+  marks     Int
+  testId    String
+
+  test Test @relation(fields: [testId], references: [id])
+}
+
+model User {
+  id        String   @id @default(cuid())
+  name      String?
+  email     String   @unique
+  password  String
+  createdAt DateTime @default(now())
+
+  attempts Attempt[]
+}
+
+model Attempt {
+  id        String   @id @default(cuid())
+  userId    String
+  testId    String
+  score     Int
+  createdAt DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id])
+  test Test @relation(fields: [testId], references: [id])
+}
+🧠 Database Relationship Diagram
+Category
+   │
+   └── SubCategory
+          │
+          └── Exam
+                │
+                └── TestSeries
+                        │
+                        └── Test
+                              │
+                              └── Question
+User side:
+
+User
+  │
+  └── Attempt
+         │
+         └── Test
+📂 Example Data Structure
+Example for JEE Main
+
+Category
+ └ Engineering
+
+SubCategory
+ └ IIT JEE
+
+Exam
+ └ JEE Main
+
+TestSeries
+ └ JEE Main 2026 Test Series
+
+Test
+ ├ Mock Test 1
+ ├ Mock Test 2
+
+Questions
+ ├ Q1
+ ├ Q2
+ ├ Q3
+⚡ Useful Prisma Queries
+Get sidebar exam structure
+const categories = await prisma.category.findMany({
+  include: {
+    subcategories: {
+      include: {
+        exams: true
+      }
+    }
+  }
+})
+Get exam page
+const exam = await prisma.exam.findUnique({
+  where: { slug: "jee-main" },
+  include: {
+    testSeries: true
+  }
+})
+🚀 Future Features You Should Add Later
+Add these tables later when scaling:
+
+ExamSyllabus
+
+PreviousPapers
+
+Leaderboard
+
+Topic
+
+QuestionTag
+
+UserSubscription
+
+💡 Very Important Tip
+Add slug fields everywhere for SEO.
+
+Example URLs:
+
+/exams/jee-main
+/exams/jee-main/mock-test
+/exams/jee-main/previous-papers
+This will help Next-Ranker rank on Google.
+
+✅ If you want, I can also show you a Testbook-level schema (with 25+ tables) used by big ed-tech platforms.
+It will help your platform scale to 10M+ users.
+
+
+in my platform - free and paid tests gonna be their  -  user type - admin(admin can make examHandler   - one examHandler can control  multiple exams  ) , user , examHandler( examHandler  - can manage particular exam  - can make tests (free/paid)  -can draft test and can launch  so users can view that test too  ,  he can testseries too (what is test series ?  - can have paid or free test   , testseries is nothing but collection of free and paid tests for users  ) ,  )
+
+if user will purchase  paid plan subscription he can access all the exams paid tests   - make schema for this too (admin can make pans )
+
+
+every exam will have live test  -  examHandler can set the day  - free or paid llive test , number of questions , time duration  and more
+one these above things are set then this will be created as automation  - users can join the live test  and can give  test in that time same for all users   ,  live tests will take the random questions  from free or paid tests of that particular exam ,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For Next-Ranker, you now need a schema that supports:
+
+3 roles → ADMIN, EXAM_HANDLER, USER
+
+ExamHandler manages multiple exams
+
+Tests → free or paid
+
+TestSeries → collection of tests
+
+Subscription plans → unlock paid tests
+
+Live tests → scheduled + random questions
+
+Admin creates subscription plans
+
+Below is a clean scalable Prisma schema that supports all of that.
+
+🧠 Core Roles System
+Use role enum.
+
+enum Role {
+  ADMIN
+  EXAM_HANDLER
+  USER
+}
+👤 User Model
+model User {
+  id        String   @id @default(cuid())
+  name      String?
+  email     String   @unique
+  password  String
+  role      Role     @default(USER)
+  createdAt DateTime @default(now())
+
+  examsHandled ExamHandlerExam[]
+  attempts     Attempt[]
+  subscriptions UserSubscription[]
+}
+📚 Category → Exam Structure
+model Category {
+  id    String @id @default(cuid())
+  name  String
+  slug  String @unique
+
+  exams Exam[]
+}
+
+model Exam {
+  id          String @id @default(cuid())
+  name        String
+  slug        String @unique
+  categoryId  String
+  createdAt   DateTime @default(now())
+
+  category Category @relation(fields: [categoryId], references: [id])
+
+  handlers   ExamHandlerExam[]
+  tests      Test[]
+  testSeries TestSeries[]
+  liveTests  LiveTest[]
+}
+👨‍🏫 Exam Handler Mapping
+One handler can manage multiple exams.
+
+model ExamHandlerExam {
+  id        String @id @default(cuid())
+  handlerId String
+  examId    String
+
+  handler User @relation(fields: [handlerId], references: [id])
+  exam    Exam @relation(fields: [examId], references: [id])
+
+  @@unique([handlerId, examId])
+}
+📝 Tests
+Tests can be free or paid.
+
+enum TestStatus {
+  DRAFT
+  PUBLISHED
+}
+
+model Test {
+  id           String @id @default(cuid())
+  title        String
+  examId       String
+  duration     Int
+  totalMarks   Int
+  isPaid       Boolean @default(false)
+  status       TestStatus @default(DRAFT)
+  createdAt    DateTime @default(now())
+
+  exam       Exam @relation(fields: [examId], references: [id])
+  questions  Question[]
+  testSeries TestSeriesTest[]
+  attempts   Attempt[]
+}
+🧩 Questions
+model Question {
+  id       String @id @default(cuid())
+  question String
+
+  optionA  String
+  optionB  String
+  optionC  String
+  optionD  String
+
+  correct  String
+  marks    Int
+
+  testId String
+  test   Test @relation(fields: [testId], references: [id])
+}
+📦 Test Series
+A TestSeries = collection of tests.
+
+model TestSeries {
+  id      String @id @default(cuid())
+  title   String
+  examId  String
+  isPaid  Boolean @default(false)
+  price   Float?
+
+  exam  Exam @relation(fields: [examId], references: [id])
+  tests TestSeriesTest[]
+}
+
+model TestSeriesTest {
+  id          String @id @default(cuid())
+  testSeriesId String
+  testId       String
+
+  testSeries TestSeries @relation(fields: [testSeriesId], references: [id])
+  test       Test       @relation(fields: [testId], references: [id])
+
+  @@unique([testSeriesId, testId])
+}
+💳 Subscription Plans (Admin Creates)
+model SubscriptionPlan {
+  id          String @id @default(cuid())
+  name        String
+  price       Float
+  duration    Int  // days
+  description String?
+
+  createdAt DateTime @default(now())
+
+  users UserSubscription[]
+}
+👥 User Subscription
+model UserSubscription {
+  id        String @id @default(cuid())
+  userId    String
+  planId    String
+  startDate DateTime
+  endDate   DateTime
+
+  user User @relation(fields: [userId], references: [id])
+  plan SubscriptionPlan @relation(fields: [planId], references: [id])
+}
+This means:
+
+If a user buys subscription → access all paid tests.
+
+🔴 Live Tests
+Live tests scheduled by ExamHandler.
+
+model LiveTest {
+  id           String @id @default(cuid())
+  examId       String
+  title        String
+  startTime    DateTime
+  duration     Int
+  questionCount Int
+  isPaid       Boolean @default(false)
+
+  exam Exam @relation(fields: [examId], references: [id])
+
+  attempts LiveAttempt[]
+}
+📊 Attempts
+model Attempt {
+  id      String @id @default(cuid())
+  userId  String
+  testId  String
+  score   Int
+  createdAt DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id])
+  test Test @relation(fields: [testId], references: [id])
+}
+
+model LiveAttempt {
+  id         String @id @default(cuid())
+  userId     String
+  liveTestId String
+  score      Int
+
+  user     User     @relation(fields: [userId], references: [id])
+  liveTest LiveTest @relation(fields: [liveTestId], references: [id])
+}
+⚡ Live Test Random Question Logic
+Your backend will:
+
+1 exam
+   ↓
+find all tests
+   ↓
+select random questions
+   ↓
+generate live test paper
+Example query logic:
+
+const questions = await prisma.question.findMany({
+  where: {
+    test: {
+      examId: examId
+    }
+  },
+  take: questionCount,
+  orderBy: {
+    id: "desc"
+  }
+})
+🧩 Full System Architecture
+Admin
+ ├ create exam
+ ├ create subscription plan
+ └ assign examHandler
+
+ExamHandler
+ ├ create tests
+ ├ publish tests
+ ├ create testSeries
+ └ schedule live test
+
+User
+ ├ buy subscription
+ ├ attempt tests
+ └ join live tests
+🚀 Pro Feature You Should Add Later
+Add these models later:
+
+Leaderboard
+
+Rank
+
+Negative marking
+
+Topic wise questions
+
+AI difficulty tagging
+
+Exam syllabus
+
+💡 If you want, I can also show you how platforms like Testbook design their database (40+ tables) and how to structure it for 1M+ users without slowing down queries.
+
+
+add these too - 🚀 Pro Feature You Should Add Later
+
+Add these models later:
+
+Leaderboard
+
+Rank
+
+Negative marking
+
+Topic wise questions
+
+AI difficulty tagging
+
+Exam syllabus
+
+Below are additional Prisma models you can plug into your existing schema to support the features you mentioned. I’ll keep them modular so they integrate cleanly with the schema you already designed.
+
+🚀 Additional Models for Advanced Features
+1️⃣ Exam Syllabus
+Each exam can have multiple syllabus sections (subject → topic → description).
+
+model ExamSyllabus {
+  id          String @id @default(cuid())
+  examId      String
+  subject     String
+  topic       String
+  description String?
+
+  exam Exam @relation(fields: [examId], references: [id])
+}
+Example:
+
+Exam	Subject	Topic
+JEE Main	Physics	Mechanics
+JEE Main	Chemistry	Organic Chemistry
+2️⃣ Topics (for Topic-wise Questions)
+This allows filtering questions by topic and building topic-wise tests.
+
+model Topic {
+  id        String @id @default(cuid())
+  examId    String
+  name      String
+  createdAt DateTime @default(now())
+
+  exam Exam @relation(fields: [examId], references: [id])
+
+  questions QuestionTopic[]
+}
+3️⃣ Question ↔ Topic Mapping
+One question can belong to multiple topics.
+
+model QuestionTopic {
+  id         String @id @default(cuid())
+  questionId String
+  topicId    String
+
+  question Question @relation(fields: [questionId], references: [id])
+  topic    Topic    @relation(fields: [topicId], references: [id])
+
+  @@unique([questionId, topicId])
+}
+Example:
+
+Question → Physics → Mechanics
+Question → Physics → Rotational Motion
+4️⃣ AI Difficulty Tagging
+Allows AI to classify questions.
+
+enum Difficulty {
+  EASY
+  MEDIUM
+  HARD
+}
+Add this field inside Question model:
+
+difficulty Difficulty @default(MEDIUM)
+aiScore    Float?
+Example:
+
+Question	Difficulty	AI Score
+Q1	EASY	0.22
+Q2	HARD	0.89
+5️⃣ Negative Marking
+Each test can define its marking scheme.
+
+Add this to Test model.
+
+negativeMarks Float @default(0)
+Example:
+
+Test	Marks	Negative
+JEE Mock	4	1
+Meaning:
+
+correct = +4
+wrong = -1
+6️⃣ Leaderboard
+Stores ranking for each test.
+
+model Leaderboard {
+  id        String @id @default(cuid())
+  testId    String
+  userId    String
+  score     Int
+  timeTaken Int
+  rank      Int
+
+  createdAt DateTime @default(now())
+
+  test Test @relation(fields: [testId], references: [id])
+  user User @relation(fields: [userId], references: [id])
+
+  @@unique([testId, userId])
+}
+Example:
+
+Rank	User	Score
+1	Rahul	95
+2	Nitesh	92
+7️⃣ Global Rank System
+You may also track overall exam rank.
+
+model ExamRank {
+  id     String @id @default(cuid())
+  examId String
+  userId String
+  score  Int
+  rank   Int
+
+  exam Exam @relation(fields: [examId], references: [id])
+  user User @relation(fields: [userId], references: [id])
+
+  @@unique([examId, userId])
+}
+🧠 Updated Question Model Example
+Final Question model becomes:
+
+model Question {
+  id        String @id @default(cuid())
+  question  String
+
+  optionA String
+  optionB String
+  optionC String
+  optionD String
+
+  correct String
+  marks   Int
+
+  difficulty Difficulty @default(MEDIUM)
+  aiScore Float?
+
+  testId String
+  test   Test @relation(fields: [testId], references: [id])
+
+  topics QuestionTopic[]
+}
+📊 Full Feature Architecture
+Exam
+ ├ Syllabus
+ ├ Topics
+ │     └ Questions
+ │
+ ├ Tests
+ │     ├ Negative Marking
+ │     └ Leaderboard
+ │
+ ├ Live Tests
+ │
+ └ Rank System
+💡 Bonus Feature You Should Consider
+These make a test platform much stronger:
+
+🧠 Question Analytics
+model QuestionStats {
+  id         String @id @default(cuid())
+  questionId String
+  correctRate Float
+  attempts    Int
+
+  question Question @relation(fields: [questionId], references: [id])
+}
+Used to detect difficult questions automatically.
+
+⚡ Important Performance Tip
+When your platform grows:
+
+Add indexes like:
+
+@@index([examId])
+@@index([testId])
+@@index([userId])
+This keeps queries fast with millions of attempts.
+
+✅ If you want, I can also show you one extremely powerful database structure used by large ed-tech platforms that supports:
+
+10M+ users
+
+100k+ questions
+
+instant leaderboard
+
+real-time live exams
+
+That architecture will help Next-Ranker scale like Testbook / Unacademy.
+
+
+okayy finally make the complete prisma schema and give it to me
+
+Below is a complete production-ready Prisma schema for your Next-Ranker platform based on everything you described:
+
+Roles: ADMIN, EXAM_HANDLER, USER
+
+Exam handlers manage exams
+
+Free / Paid tests
+
+Test series
+
+Subscription plans
+
+Live tests
+
+Random question pools
+
+Leaderboard
+
+Negative marking
+
+Topic-wise questions
+
+AI difficulty tagging
+
+Exam syllabus
+
+Ranks & attempts
+
+This schema is scalable for thousands of exams and millions of attempts.
+
+🧠 Complete Prisma Schema (Next-Ranker)
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+//////////////////////////////////////////////////////
+// ENUMS
+//////////////////////////////////////////////////////
+
+enum Role {
+  ADMIN
+  EXAM_HANDLER
+  USER
+}
+
+enum Difficulty {
+  EASY
+  MEDIUM
+  HARD
+}
+
+enum TestStatus {
+  DRAFT
+  PUBLISHED
+}
+
+//////////////////////////////////////////////////////
+// USERS
+//////////////////////////////////////////////////////
+
+model User {
+  id        String   @id @default(cuid())
+  name      String?
+  email     String   @unique
+  password  String
+  role      Role     @default(USER)
+  createdAt DateTime @default(now())
+
+  handledExams  ExamHandlerExam[]
+  attempts      Attempt[]
+  liveAttempts  LiveAttempt[]
+  subscriptions UserSubscription[]
+}
+
+//////////////////////////////////////////////////////
+// CATEGORIES & EXAMS
+//////////////////////////////////////////////////////
+
+model Category {
+  id    String @id @default(cuid())
+  name  String
+  slug  String @unique
+
+  exams Exam[]
+}
+
+model Exam {
+  id        String   @id @default(cuid())
+  name      String
+  slug      String   @unique
+  categoryId String
+  createdAt DateTime @default(now())
+
+  category Category @relation(fields: [categoryId], references: [id])
+
+  handlers   ExamHandlerExam[]
+  tests      Test[]
+  testSeries TestSeries[]
+  liveTests  LiveTest[]
+  syllabus   ExamSyllabus[]
+  topics     Topic[]
+  ranks      ExamRank[]
+}
+
+//////////////////////////////////////////////////////
+// EXAM HANDLERS
+//////////////////////////////////////////////////////
+
+model ExamHandlerExam {
+  id        String @id @default(cuid())
+  handlerId String
+  examId    String
+
+  handler User @relation(fields: [handlerId], references: [id])
+  exam    Exam @relation(fields: [examId], references: [id])
+
+  @@unique([handlerId, examId])
+}
+
+//////////////////////////////////////////////////////
+// TESTS
+//////////////////////////////////////////////////////
+
+model Test {
+  id            String @id @default(cuid())
+  title         String
+  examId        String
+  duration      Int
+  totalMarks    Int
+  negativeMarks Float  @default(0)
+  isPaid        Boolean @default(false)
+  status        TestStatus @default(DRAFT)
+
+  createdAt DateTime @default(now())
+
+  exam Exam @relation(fields: [examId], references: [id])
+
+  questions   Question[]
+  attempts    Attempt[]
+  testSeries  TestSeriesTest[]
+  leaderboard Leaderboard[]
+}
+
+//////////////////////////////////////////////////////
+// QUESTIONS
+//////////////////////////////////////////////////////
+
+model Question {
+  id       String @id @default(cuid())
+  question String
+
+  optionA String
+  optionB String
+  optionC String
+  optionD String
+
+  correct String
+  marks   Int
+
+  difficulty Difficulty @default(MEDIUM)
+  aiScore    Float?
+
+  testId String
+  test   Test @relation(fields: [testId], references: [id])
+
+  topics QuestionTopic[]
+  stats  QuestionStats?
+}
+
+//////////////////////////////////////////////////////
+// TOPICS
+//////////////////////////////////////////////////////
+
+model Topic {
+  id        String @id @default(cuid())
+  name      String
+  examId    String
+  createdAt DateTime @default(now())
+
+  exam Exam @relation(fields: [examId], references: [id])
+
+  questions QuestionTopic[]
+}
+
+model QuestionTopic {
+  id         String @id @default(cuid())
+  questionId String
+  topicId    String
+
+  question Question @relation(fields: [questionId], references: [id])
+  topic    Topic    @relation(fields: [topicId], references: [id])
+
+  @@unique([questionId, topicId])
+}
+
+//////////////////////////////////////////////////////
+// TEST SERIES
+//////////////////////////////////////////////////////
+
+model TestSeries {
+  id     String @id @default(cuid())
+  title  String
+  examId String
+  isPaid Boolean @default(false)
+  price  Float?
+
+  exam Exam @relation(fields: [examId], references: [id])
+
+  tests TestSeriesTest[]
+}
+
+model TestSeriesTest {
+  id           String @id @default(cuid())
+  testSeriesId String
+  testId       String
+
+  testSeries TestSeries @relation(fields: [testSeriesId], references: [id])
+  test       Test       @relation(fields: [testId], references: [id])
+
+  @@unique([testSeriesId, testId])
+}
+
+//////////////////////////////////////////////////////
+// ATTEMPTS
+//////////////////////////////////////////////////////
+
+model Attempt {
+  id        String @id @default(cuid())
+  userId    String
+  testId    String
+  score     Int
+  timeTaken Int?
+
+  createdAt DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id])
+  test Test @relation(fields: [testId], references: [id])
+}
+
+//////////////////////////////////////////////////////
+// LEADERBOARD
+//////////////////////////////////////////////////////
+
+model Leaderboard {
+  id        String @id @default(cuid())
+  testId    String
+  userId    String
+  score     Int
+  rank      Int
+  timeTaken Int
+
+  createdAt DateTime @default(now())
+
+  test Test @relation(fields: [testId], references: [id])
+  user User @relation(fields: [userId], references: [id])
+
+  @@unique([testId, userId])
+}
+
+//////////////////////////////////////////////////////
+// LIVE TESTS
+//////////////////////////////////////////////////////
+
+model LiveTest {
+  id            String   @id @default(cuid())
+  title         String
+  examId        String
+  startTime     DateTime
+  duration      Int
+  questionCount Int
+  isPaid        Boolean @default(false)
+
+  exam Exam @relation(fields: [examId], references: [id])
+
+  attempts LiveAttempt[]
+}
+
+model LiveAttempt {
+  id         String @id @default(cuid())
+  userId     String
+  liveTestId String
+  score      Int
+
+  user     User     @relation(fields: [userId], references: [id])
+  liveTest LiveTest @relation(fields: [liveTestId], references: [id])
+}
+
+//////////////////////////////////////////////////////
+// SUBSCRIPTIONS
+//////////////////////////////////////////////////////
+
+model SubscriptionPlan {
+  id          String @id @default(cuid())
+  name        String
+  price       Float
+  duration    Int
+  description String?
+
+  createdAt DateTime @default(now())
+
+  users UserSubscription[]
+}
+
+model UserSubscription {
+  id        String @id @default(cuid())
+  userId    String
+  planId    String
+  startDate DateTime
+  endDate   DateTime
+
+  user User @relation(fields: [userId], references: [id])
+  plan SubscriptionPlan @relation(fields: [planId], references: [id])
+}
+
+//////////////////////////////////////////////////////
+// SYLLABUS
+//////////////////////////////////////////////////////
+
+model ExamSyllabus {
+  id          String @id @default(cuid())
+  examId      String
+  subject     String
+  topic       String
+  description String?
+
+  exam Exam @relation(fields: [examId], references: [id])
+}
+
+//////////////////////////////////////////////////////
+// EXAM RANKING
+//////////////////////////////////////////////////////
+
+model ExamRank {
+  id     String @id @default(cuid())
+  examId String
+  userId String
+  score  Int
+  rank   Int
+
+  exam Exam @relation(fields: [examId], references: [id])
+  user User @relation(fields: [userId], references: [id])
+
+  @@unique([examId, userId])
+}
+
+//////////////////////////////////////////////////////
+// QUESTION ANALYTICS
+//////////////////////////////////////////////////////
+
+model QuestionStats {
+  id          String @id @default(cuid())
+  questionId  String
+  attempts    Int
+  correctRate Float
+
+  question Question @relation(fields: [questionId], references: [id])
+}
+🧩 System Architecture Overview
+Admin
+ ├ Create Categories
+ ├ Create Exams
+ ├ Create Subscription Plans
+ └ Assign ExamHandlers
+
+ExamHandler
+ ├ Create Tests
+ ├ Draft / Publish Tests
+ ├ Create TestSeries
+ ├ Schedule Live Tests
+ └ Manage Questions
+
+User
+ ├ Buy Subscription
+ ├ Attempt Tests
+ ├ Join Live Tests
+ ├ View Leaderboards
+ └ Get Rank
+⚡ How This Scales
+This schema supports:
+
+Feature	Supported
+1000+ exams	✅
+1M+ users	✅
+100k+ questions	✅
+Live tests	✅
+Random questions	✅
+Paid plans	✅
+Leaderboard	✅
+💡 Next Important Step (Highly Recommended)
+Your biggest challenge will not be the schema but question storage and random selection.
+
+If you want, I can also show you:
+
+The best schema for storing 100k–1M questions
+
+How Testbook generates random live test papers instantly
+
+How to prevent cheating in live exams
+
+How to design the Next.js API for this system
+
+These things are very important for a test platform.
+
+
+Uploaded image
+now give me the app structure too    - just simple one not too much big for now  - just folder structure
+
+here users + admin  + exam handler   all in one platform
+
+
+
+and if socket io needed  for this plaform or not just tell me
+
+
+
+- in components i want something like   - for each and every exam   i will make component - like clat have  one paragraph and 5 questions within one paragraph
+
+like jee have physics chemistry math  - no paragraph just question
+
+
+like this  for this type give me all  the situation + solution  how to tackle iit in large scale
+
+if needed update schema too
+
+
+
+
+
+
+You already have a good base project structure for a Next.js + Prisma app. For Next-Ranker, keep the structure simple but scalable. Don’t over-engineer at the beginning.
+
+Below is a clean folder structure for your platform.
+
+📂 Recommended App Structure (Simple & Scalable)
+next-ranker
+│
+├ app
+│   ├ (root)
+│   │   ├ page.tsx
+│   │   └ layout.tsx
+│
+│   ├ api
+│   │   ├ auth
+│   │   │   └ route.ts
+│   │   ├ exams
+│   │   │   └ route.ts
+│   │   ├ tests
+│   │   │   └ route.ts
+│   │   ├ live-tests
+│   │   │   └ route.ts
+│   │   ├ subscription
+│   │   │   └ route.ts
+│   │   └ attempt
+│   │       └ route.ts
+│
+│   ├ exams
+│   │   └ [examSlug]
+│   │       ├ page.tsx
+│   │       ├ tests
+│   │       │   └ page.tsx
+│   │       └ live
+│   │           └ page.tsx
+│
+│   ├ dashboard
+│   │   ├ admin
+│   │   │   └ page.tsx
+│   │   ├ exam-handler
+│   │   │   └ page.tsx
+│   │   └ user
+│   │       └ page.tsx
+│
+│   └ auth
+│       ├ login
+│       │   └ page.tsx
+│       └ register
+│           └ page.tsx
+│
+├ components
+│   ├ exam
+│   │   ├ ExamCard.tsx
+│   │   ├ ExamSidebar.tsx
+│   │   └ ExamHeader.tsx
+│
+│   ├ test
+│   │   ├ TestCard.tsx
+│   │   ├ TestPlayer.tsx
+│   │   └ QuestionRenderer.tsx
+│
+│   ├ live-test
+│   │   ├ LiveTestTimer.tsx
+│   │   └ LiveLeaderboard.tsx
+│
+│   └ ui
+│       ├ Button.tsx
+│       ├ Modal.tsx
+│       └ Loader.tsx
+│
+├ hooks
+│   ├ useAuth.ts
+│   ├ useTimer.ts
+│   └ useTestAttempt.ts
+│
+├ lib
+│   ├ prisma.ts
+│   ├ auth.ts
+│   ├ exam.ts
+│   └ utils.ts
+│
+├ prisma
+│   └ schema.prisma
+👥 Platform Roles (One Platform)
+You don't need separate apps.
+
+Just check the role field.
+
+USER
+ADMIN
+EXAM_HANDLER
+Example middleware:
+
+if(user.role === "ADMIN") redirect("/dashboard/admin")
+if(user.role === "EXAM_HANDLER") redirect("/dashboard/exam-handler")
+if(user.role === "USER") redirect("/dashboard/user")
+🔌 Do You Need Socket.IO?
+❌ Not required for most parts.
+Use normal API for:
+
+tests
+
+exam lists
+
+attempts
+
+subscription
+
+results
+
+✅ Socket needed only for:
+Feature	Socket Needed
+Live test countdown sync	YES
+Live leaderboard updates	YES
+Real-time join exam	YES
+But you can also start with polling every 5 sec.
+
+So Socket.IO can be added later.
+
+🧠 Handling Different Question Types (Important)
+Your platform will face different exam formats.
+
+Examples:
+
+Exam	Pattern
+CLAT	passage + 5 questions
+JEE	independent MCQ
+CAT	paragraph RC
+NEET	MCQ
+UPSC	MCQ
+SSC	MCQ
+Instead of different components, create question types.
+
+🧩 Update Question Model (IMPORTANT)
+Add questionType.
+
+enum QuestionType {
+  MCQ
+  PARAGRAPH
+}
+Update model:
+
+model Question {
+  id        String @id @default(cuid())
+  question  String
+
+  optionA String
+  optionB String
+  optionC String
+  optionD String
+
+  correct String
+  marks   Int
+
+  questionType QuestionType
+
+  paragraphId String?
+
+  testId String
+  test   Test @relation(fields: [testId], references: [id])
+}
+📄 Paragraph Model (For CLAT / CAT)
+model Paragraph {
+  id   String @id @default(cuid())
+  text String
+
+  questions Question[]
+}
+Now CLAT works like:
+
+Paragraph
+   ├ Question 1
+   ├ Question 2
+   ├ Question 3
+   ├ Question 4
+   └ Question 5
+🧩 Question Renderer Component (Key Idea)
+Create one universal renderer.
+
+components/test/QuestionRenderer.tsx
+Example:
+
+if(question.type === "MCQ"){
+   return <MCQQuestion />
+}
+
+if(question.type === "PARAGRAPH"){
+   return <ParagraphQuestion />
+}
+📊 Large Scale Architecture for Questions
+For large scale (100k+ questions):
+
+Store questions like:
+
+Exam
+   └ Subjects
+         └ Topics
+               └ Questions
+Example JEE:
+
+JEE
+ ├ Physics
+ │     ├ Mechanics
+ │     └ Thermodynamics
+ │
+ ├ Chemistry
+ │
+ └ Math
+Update schema:
+
+model Subject {
+  id     String @id @default(cuid())
+  name   String
+  examId String
+
+  exam Exam @relation(fields:[examId], references:[id])
+}
+🧠 Large Scale Question Strategy (Very Important)
+Never select random questions like:
+
+ORDER BY RANDOM()
+Bad for performance.
+
+Instead:
+
+take random ids
+Example:
+
+random question ids
+fetch by ids
+🚀 Future Scaling Tips
+When Next-Ranker grows:
+
+Problem	Solution
+1M attempts/day	Redis caching
+live tests	websockets
+leaderboards	redis sorted sets
+random questions	question pools
+analytics	background jobs
+⭐ One Very Important Feature You Should Add
+Question Pool
+
+Instead of pulling from all tests.
+
+Create:
+
+QuestionPool
+Example:
+
+JEE Physics Easy Pool
+JEE Physics Hard Pool
+Then live test pulls from pools.
+
+🎯 Final Architecture
+User
+Admin
+ExamHandler
+     │
+     ├ Exams
+     ├ Tests
+     ├ Question Pools
+     ├ TestSeries
+     ├ Live Tests
+     └ Questions
+⚡ If you want, I can also show you
+How Testbook / Unacademy build their system, including:
+
+1M+ concurrent live exam architecture
+
+Anti cheating system
+
+Random paper generator
+
+How to store 1M questions efficiently
+
+This will help Next-Ranker become a real scalable platform.
+
+
+page.tsx and layout.tsx kee it in app - and move all the other routes to root  -next-ranker
+│
+├ app
+│   ├ (root)
+│   │   ├ page.tsx
+│   │   └ layout.tsx
+│
+│   ├ api
+│   │   ├ auth
+│   │   │   └ route.ts
+│   │   ├ exams
+│   │   │   └ route.ts
+│   │   ├ tests
+│   │   │   └ route.ts
+│   │   ├ live-tests
+│   │   │   └ route.ts
+│   │   ├ subscription
+│   │   │   └ route.ts
+│   │   └ attempt
+│   │       └ route.ts
+│
+│   ├ exams
+│   │   └ [examSlug]
+│   │       ├ page.tsx
+│   │       ├ tests
+│   │       │   └ page.tsx
+│   │       └ live
+│   │           └ page.tsx
+│
+│   ├ dashboard
+│   │   ├ admin
+│   │   │   └ page.tsx
+│   │   ├ exam-handler
+│   │   │   └ page.tsx
+│   │   └ user
+│   │       └ page.tsx
+│
+│   └ auth
+│       ├ login
+│       │   └ page.tsx
+│       └ register
+│           └ page.tsx
+│
+├ components
+│   ├ exam
+│   │   ├ ExamCard.tsx
+│   │   ├ ExamSidebar.tsx
+│   │   └ ExamHeader.tsx
+│
+│   ├ test
+│   │   ├ TestCard.tsx
+│   │   ├ TestPlayer.tsx
+│   │   └ QuestionRenderer.tsx
+│
+│   ├ live-test
+│   │   ├ LiveTestTimer.tsx
+│   │   └ LiveLeaderboard.tsx
+│
+│   └ ui
+│       ├ Button.tsx
+│       ├ Modal.tsx
+│       └ Loader.tsx
+│
+├ hooks
+│   ├ useAuth.ts
+│   ├ useTimer.ts
+│   └ useTestAttempt.ts
+│
+├ lib
+│   ├ prisma.ts
+│   ├ auth.ts
+│   ├ exam.ts
+│   └ utils.ts
+│
+├ prisma
+│   └ schema.prisma
+
+Yes, you can structure it like that, but in Next.js App Router every page route must stay inside app/.
+
+You cannot move routes completely outside app if you want them to be pages.
+
+What you can do instead is:
+
+keep only global layout + homepage in app
+
+move all other routes into app/(root)/ route group
+
+Route groups do not affect the URL, they only organize files.
+
+✅ Correct Structure for Your Requirement
+next-ranker
+│
+├ app
+│   ├ layout.tsx
+│   ├ page.tsx
+│
+│   ├ (root)
+│   │
+│   │   ├ api
+│   │   │   ├ auth
+│   │   │   │   └ route.ts
+│   │   │   ├ exams
+│   │   │   │   └ route.ts
+│   │   │   ├ tests
+│   │   │   │   └ route.ts
+│   │   │   ├ live-tests
+│   │   │   │   └ route.ts
+│   │   │   ├ subscription
+│   │   │   │   └ route.ts
+│   │   │   └ attempt
+│   │   │       └ route.ts
+│   │
+│   │   ├ exams
+│   │   │   └ [examSlug]
+│   │   │       ├ page.tsx
+│   │   │       ├ tests
+│   │   │       │   └ page.tsx
+│   │   │       └ live
+│   │   │           └ page.tsx
+│   │
+│   │   ├ dashboard
+│   │   │   ├ admin
+│   │   │   │   └ page.tsx
+│   │   │   ├ exam-handler
+│   │   │   │   └ page.tsx
+│   │   │   └ user
+│   │   │       └ page.tsx
+│   │
+│   │   └ auth
+│   │       ├ login
+│   │       │   └ page.tsx
+│   │       └ register
+│   │           └ page.tsx
+│
+├ components
+│   ├ exam
+│   │   ├ ExamCard.tsx
+│   │   ├ ExamSidebar.tsx
+│   │   └ ExamHeader.tsx
+│
+│   ├ test
+│   │   ├ TestCard.tsx
+│   │   ├ TestPlayer.tsx
+│   │   ├ QuestionRenderer.tsx
+│   │   ├ MCQQuestion.tsx
+│   │   └ ParagraphQuestion.tsx
+│
+│   ├ live-test
+│   │   ├ LiveTestTimer.tsx
+│   │   └ LiveLeaderboard.tsx
+│
+│   └ ui
+│       ├ Button.tsx
+│       ├ Modal.tsx
+│       └ Loader.tsx
+│
+├ hooks
+│   ├ useAuth.ts
+│   ├ useTimer.ts
+│   └ useTestAttempt.ts
+│
+├ lib
+│   ├ prisma.ts
+│   ├ auth.ts
+│   ├ exam.ts
+│   └ utils.ts
+│
+├ prisma
+│   └ schema.prisma
+📌 What URLs Look Like
+Even though everything is inside (root), URLs remain clean:
+
+/auth/login
+/auth/register
+
+/exams/jee-main
+/exams/clat
+
+/exams/jee-main/tests
+/exams/jee-main/live
+
+/dashboard/admin
+/dashboard/exam-handler
+/dashboard/user
+🧠 Why (root) is Useful
+Route groups help:
+
+organize large apps
+
+separate marketing pages vs platform
+
+apply different layouts later
+
+Example later:
+
+app
+ ├ (marketing)
+ ├ (platform)
+🧩 Component Strategy for Different Exam Types
+Your idea is correct: different exam formats need different renderers.
+
+Add these components:
+
+components/test
+│
+├ QuestionRenderer.tsx
+├ MCQQuestion.tsx
+├ ParagraphQuestion.tsx
+├ NumericalQuestion.tsx
+└ MultiSelectQuestion.tsx
+🧠 Question Rendering Logic
+switch(question.type){
+
+ case "MCQ":
+   return <MCQQuestion />
+
+ case "PARAGRAPH":
+   return <ParagraphQuestion />
+
+ case "NUMERICAL":
+   return <NumericalQuestion />
+
+}
+📚 Example Use Cases
+JEE
+MCQ
+Numerical
+Multiple correct
+CLAT
+Paragraph
+ ├ Question
+ ├ Question
+ ├ Question
+UPSC
+MCQ
+📊 Schema Update for Question Types
+Add:
+
+enum QuestionType {
+  MCQ
+  PARAGRAPH
+  NUMERICAL
+  MULTI_SELECT
+}
+Update Question model:
+
+questionType QuestionType
+paragraphId String?
+🔥 One Important Feature (Large Scale)
+Add Question Pool for fast live test generation.
+
+model QuestionPool {
+  id     String @id @default(cuid())
+  examId String
+  name   String
+}
+Example:
+
+JEE Physics Easy
+JEE Physics Hard
+CLAT RC Set
+Live tests pull from pools.
+
+⚡ Final Advice
+Your current architecture is already good for version 1.
+
+You only need:
+
+✔ dynamic exam pages
+✔ question renderer
+✔ test attempts
+✔ subscriptions
+
+Do NOT overbuild early.
+
+If you want, I can also show you one extremely powerful feature that will make Next-Ranker different from Testbook:
+
+AI-generated adaptive tests (very few platforms implement it correctly).
+It can become your main competitive advantage.
+
+
+user can  directly see all the things in root /
+
+but if cliked on the  any button of take test kind of  so need to login for that
+
+so make something like that  and  i want all the exams listed on sidenav
+
+What you want is a public browsing + protected actions model.
+
+Meaning:
+
+Anyone can see exams, tests, pages
+
+But when they try to take a test / join live test / purchase, they must login
+
+This is exactly how Testbook / Unacademy / LeetCode work.
+
+I'll show you the clean architecture for this.
+
+🧭 Final App Structure (Public Platform)
+next-ranker
+│
+├ app
+│   ├ layout.tsx
+│   ├ page.tsx            → Home (all exams visible)
+│
+│   ├ (platform)
+│   │   ├ exams
+│   │   │   └ [examSlug]
+│   │   │       ├ page.tsx
+│   │   │       ├ tests
+│   │   │       │   └ page.tsx
+│   │   │       └ live
+│   │   │           └ page.tsx
+│   │
+│   │   ├ test
+│   │   │   └ [testId]
+│   │   │       └ page.tsx
+│   │
+│   │   └ live-test
+│   │       └ [liveTestId]
+│   │           └ page.tsx
+│
+│   ├ auth
+│   │   ├ login
+│   │   │   └ page.tsx
+│   │   └ register
+│   │       └ page.tsx
+│
+│   ├ dashboard
+│   │   ├ admin
+│   │   │   └ page.tsx
+│   │   ├ exam-handler
+│   │   │   └ page.tsx
+│   │   └ user
+│   │       └ page.tsx
+│
+│   └ api
+│       ├ auth
+│       ├ exams
+│       ├ tests
+│       ├ attempt
+│       ├ subscription
+│       └ live-tests
+👀 Public vs Protected Pages
+Public Pages
+Users can see without login
+
+/
+ /exams
+ /exams/[examSlug]
+ /exams/[examSlug]/tests
+Example:
+
+/exams/jee-main
+/exams/clat
+/exams/upsc
+Protected Pages
+Require login
+
+/test/[testId]
+/live-test/[liveTestId]
+/dashboard/*
+🔐 Login Gate Logic
+Inside Take Test button.
+
+const handleTakeTest = () => {
+
+ if(!user){
+   router.push("/auth/login")
+   return
+ }
+
+ router.push(`/test/${testId}`)
+}
+This means:
+
+User not logged in → redirect login
+User logged in → start test
+🧭 Side Navigation (All Exams Listed)
+Sidebar should come from database.
+
+Example structure:
+
+All Exams
+│
+├ Engineering
+│   ├ JEE Main
+│   ├ JEE Advanced
+│
+├ Law
+│   ├ CLAT
+│   ├ AILET
+│
+├ Government
+│   ├ UPSC
+│   ├ SSC
+│
+├ Medical
+│   └ NEET
+📂 Sidebar Component
+components/exam/ExamSidebar.tsx
+Example:
+
+export default function ExamSidebar({ exams }) {
+
+ return (
+  <div>
+
+   {exams.map((category)=>(
+    <div key={category.id}>
+
+      <h3>{category.name}</h3>
+
+      {category.exams.map((exam)=>(
+        <Link href={`/exams/${exam.slug}`}>
+           {exam.name}
+        </Link>
+      ))}
+
+    </div>
+   ))}
+
+  </div>
+ )
+}
+📊 Query for Sidebar
+const exams = await prisma.category.findMany({
+ include:{
+   exams:true
+ }
+})
+This gives:
+
+Category
+  └ Exams
+🧠 Question Rendering Strategy (Important)
+Different exams have different formats.
+
+Your renderer should support:
+
+Type	Example
+MCQ	JEE / NEET
+Paragraph	CLAT
+Numerical	JEE
+Multi select	CAT
+📂 Question Components
+components/test
+│
+├ QuestionRenderer.tsx
+├ MCQQuestion.tsx
+├ ParagraphQuestion.tsx
+├ NumericalQuestion.tsx
+└ MultiSelectQuestion.tsx
+🧠 Question Renderer
+switch(question.type){
+
+ case "MCQ":
+  return <MCQQuestion />
+
+ case "PARAGRAPH":
+  return <ParagraphQuestion />
+
+ case "NUMERICAL":
+  return <NumericalQuestion />
+
+ case "MULTI_SELECT":
+  return <MultiSelectQuestion />
+
+}
+📚 CLAT Example
+Paragraph
+  ├ Question
+  ├ Question
+  ├ Question
+  ├ Question
+  └ Question
+⚡ Large Scale Question Strategy
+When platform grows:
+
+Never do this
+ORDER BY RANDOM()
+Bad for performance.
+
+Instead:
+
+select random ids
+fetch questions by ids
+🧠 Live Test Flow
+ExamHandler schedules test
+      ↓
+questions pulled from pools
+      ↓
+test created
+      ↓
+users join at startTime
+      ↓
+leaderboard updates
+🔌 Do You Need Socket.IO?
+For v1 platform → NO
+
+You can use:
+
+API polling
+Example:
+
+fetch leaderboard every 5 seconds
+Later if platform grows:
+
+socket.io
+redis
+⭐ One Very Important Feature You Should Add
+Question Pool System
+
+JEE Physics Easy Pool
+JEE Physics Hard Pool
+CLAT RC Pool
+Live tests pull from these.
+
+🚀 Final Architecture
+Homepage
+   │
+   ├ Sidebar (all exams)
+   │
+   └ Exams
+        └ Tests
+             └ Take Test
+                    │
+                    ├ logged in → start
+                    └ not logged → login
+If you want, I can also show you something very important for your platform:
+
+The exact architecture used by Testbook to handle 1M+ concurrent live exam users (including Redis, queues, and paper generation).
+
+That will help you avoid rebuilding your system later.
+
+
+   └ user
+│   │       └ page.tsx
+
+
+what is this   is it profile page for user ?
+
+Yes 👍 — in the structure I suggested:
+
+dashboard
+ ├ admin
+ ├ exam-handler
+ └ user
+     └ page.tsx
+/dashboard/user/page.tsx is basically the User Dashboard.
+
+It is not just a profile page, it's the main control panel for the user after login.
+
+👤 What /dashboard/user Should Contain
+Think of it like LeetCode / Testbook dashboard.
+
+Example URL
+/dashboard/user
+🧭 Typical User Dashboard Layout
+User Dashboard
+│
+├ My Tests
+├ My Live Tests
+├ My Test Series
+├ My Attempts
+├ Leaderboard / Rank
+├ Subscription
+└ Profile Settings
+📂 Recommended Sub-Pages
+Instead of keeping everything in one page later you can expand:
+
+dashboard
+ └ user
+     ├ page.tsx              → overview
+     ├ attempts
+     │    └ page.tsx
+     ├ subscriptions
+     │    └ page.tsx
+     ├ live-tests
+     │    └ page.tsx
+     └ profile
+          └ page.tsx
+🧠 Example User Dashboard Overview
+/dashboard/user/page.tsx
+
+User sees:
+
+Welcome Nitesh 👋
+
+Your Stats
+-----------
+Tests Attempted : 24
+Average Score   : 72%
+Best Rank       : 103
+
+Upcoming Live Tests
+-------------------
+JEE Physics Live Test
+Start Time : 8:00 PM
+
+Recent Attempts
+---------------
+Mock Test 12 → Score 65
+Mock Test 13 → Score 71
+👨‍🏫 Compare All Dashboards
+Dashboard	Purpose
+Admin	manage exams, plans, handlers
+Exam Handler	create tests & live exams
+User	attempt tests & view results
+📂 Full Dashboard Structure
+dashboard
+│
+├ admin
+│   ├ page.tsx
+│   ├ exams
+│   ├ handlers
+│   └ subscriptions
+│
+├ exam-handler
+│   ├ page.tsx
+│   ├ tests
+│   ├ questions
+│   ├ test-series
+│   └ live-tests
+│
+└ user
+    ├ page.tsx
+    ├ attempts
+    ├ subscriptions
+    └ profile
+⚡ Access Control Logic
+Example middleware logic:
+
+if(user.role === "ADMIN"){
+ redirect("/dashboard/admin")
+}
+
+if(user.role === "EXAM_HANDLER"){
+ redirect("/dashboard/exam-handler")
+}
+
+if(user.role === "USER"){
+ redirect("/dashboard/user")
+}
+💡 Important UX Tip
+Users should never land directly on dashboard after opening website.
+
+Flow should be:
+
+Homepage
+   ↓
+Browse exams
+   ↓
+Click Take Test
+   ↓
+Login required
+   ↓
+Start test
+Dashboard is mainly for:
+
+history
+
+analytics
+
+subscription
+
+attempts
+
+✅ If you want, I can also design the complete UI layout for your test-taking page (which is the most complex page in the platform).
+That page decides 90% of user experience.
+
+
+i want something like. after login user can be still in same / page  and now can access all the things in authenticated
+
+Yes — this is actually the best UX. Platforms like LeetCode, Testbook, Codeforces do the same.
+
+User logs in but stays on the same page (/), and now the UI unlocks authenticated actions.
+
+No redirect needed.
+
+🧠 Desired Flow
+User opens /
+       ↓
+Browse exams
+       ↓
+Clicks "Take Test"
+       ↓
+Not logged in → Login Modal
+       ↓
+Login success
+       ↓
+User stays on /
+       ↓
+Now buttons work
+So login changes the UI state, not the route.
+
+🧩 Architecture for This
+You need:
+
+1️⃣ Auth Context / Session Hook
+2️⃣ Login Modal instead of page redirect
+3️⃣ Protected button logic
+
+📂 Folder Structure Update
+Add auth provider.
+
+components
+ ├ auth
+ │   ├ LoginModal.tsx
+ │   ├ RegisterModal.tsx
+ │   └ AuthProvider.tsx
+🧠 Auth Provider
+Wrap your app in layout.tsx.
+
+<AuthProvider>
+  {children}
+</AuthProvider>
+Example:
+
+// app/layout.tsx
+
+import { AuthProvider } from "@/components/auth/AuthProvider"
+
+export default function RootLayout({ children }) {
+  return (
+    <html>
+      <body>
+        <AuthProvider>
+          {children}
+        </AuthProvider>
+      </body>
+    </html>
+  )
+}
+🔑 Auth Hook
+hooks/useAuth.ts
+Example:
+
+"use client"
+
+import { createContext, useContext } from "react"
+
+export const AuthContext = createContext(null)
+
+export const useAuth = () => {
+  return useContext(AuthContext)
+}
+🎯 Take Test Button Logic
+const { user, openLogin } = useAuth()
+
+const handleTakeTest = () => {
+
+ if(!user){
+   openLogin()
+   return
+ }
+
+ router.push(`/test/${testId}`)
+}
+💬 Login Modal
+Instead of redirect:
+
+<LoginModal />
+When login succeeds:
+
+setUser(user)
+closeModal()
+Page stays the same.
+
+🧭 Navbar Changes After Login
+Example UI:
+
+Not Logged In
+[Login]  [Register]
+Logged In
+Nitesh ▼
+ ├ Dashboard
+ ├ Profile
+ └ Logout
+🧠 Sidebar Exams Always Visible
+Your sidebar should always render exams, even for guests.
+
+Example:
+
+All Exams
+│
+├ Engineering
+│   ├ JEE Main
+│   ├ JEE Advanced
+│
+├ Law
+│   ├ CLAT
+│   ├ AILET
+│
+├ Government
+│   ├ UPSC
+│   ├ SSC
+Users can open exam pages without login.
+
+📊 Exam Page Behavior
+Example:
+
+/exams/jee-main
+Visible to everyone.
+
+Buttons:
+
+Button	Guest	Logged
+View tests	✅	✅
+Take test	login required	start
+Join live	login required	join
+🧩 Example Button UI
+<button onClick={handleTakeTest}>
+ Take Test
+</button>
+🔐 Server Protection (Important)
+Even if UI blocks it, API must verify user.
+
+Example:
+
+if(!session){
+ return Response.json({error:"Unauthorized"})
+}
+⚡ Best Login UX
+Do not redirect users.
+
+Use:
+
+Login Modal
+Register Modal
+This keeps engagement high.
+
+🚀 Final User Flow
+Landing Page /
+     │
+     ├ Browse exams
+     │
+     ├ Click Take Test
+     │        │
+     │        ├ Not logged → Login modal
+     │        └ Logged → Start test
+     │
+     └ After login → UI updates instantly
+⭐ One Very Important Feature for You
+You should also add Guest Mode for tests.
+
+Example:
+
+Guest users
+   ↓
+Can attempt first 5 questions
+   ↓
+Then login required
+This massively increases conversion rate.
+
+If you want, I can also show you the best architecture for the Test Taking UI (question palette, timer, auto-save, navigation).
+
+That page is the most critical engineering part of your entire platform.
+
+
+now give me final prisma schema   and final  project structure
+
+Below is a clean FINAL version for your Next-Ranker platform combining everything you discussed:
+
+Roles (ADMIN / EXAM_HANDLER / USER)
+
+Free + Paid tests
+
+Test series
+
+Subscription plans
+
+Exam handlers managing exams
+
+Live tests
+
+Paragraph questions (CLAT)
+
+MCQ / Numerical questions (JEE etc.)
+
+Leaderboard
+
+Negative marking
+
+Topic wise questions
+
+Exam syllabus
+
+Question pools (for scalable random selection)
+
+This is production-ready but still simple enough for v1.
+
+🧠 FINAL Prisma Schema
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+//////////////////////////////////////////////////////
+// ENUMS
+//////////////////////////////////////////////////////
+
+enum Role {
+  ADMIN
+  EXAM_HANDLER
+  USER
+}
+
+enum Difficulty {
+  EASY
+  MEDIUM
+  HARD
+}
+
+enum TestStatus {
+  DRAFT
+  PUBLISHED
+}
+
+enum QuestionType {
+  MCQ
+  PARAGRAPH
+  NUMERICAL
+  MULTI_SELECT
+}
+
+//////////////////////////////////////////////////////
+// USERS
+//////////////////////////////////////////////////////
+
+model User {
+  id        String   @id @default(cuid())
+  name      String?
+  email     String   @unique
+  password  String
+  role      Role     @default(USER)
+  createdAt DateTime @default(now())
+
+  handledExams ExamHandlerExam[]
+  attempts     Attempt[]
+  liveAttempts LiveAttempt[]
+
+  subscriptions UserSubscription[]
+}
+
+//////////////////////////////////////////////////////
+// CATEGORY
+//////////////////////////////////////////////////////
+
+model Category {
+  id   String @id @default(cuid())
+  name String
+  slug String @unique
+
+  exams Exam[]
+}
+
+//////////////////////////////////////////////////////
+// EXAMS
+//////////////////////////////////////////////////////
+
+model Exam {
+  id         String   @id @default(cuid())
+  name       String
+  slug       String   @unique
+  categoryId String
+  createdAt  DateTime @default(now())
+
+  category Category @relation(fields: [categoryId], references: [id])
+
+  handlers   ExamHandlerExam[]
+  subjects   Subject[]
+  tests      Test[]
+  testSeries TestSeries[]
+  liveTests  LiveTest[]
+
+  syllabus ExamSyllabus[]
+  topics   Topic[]
+
+  questionPools QuestionPool[]
+}
+
+//////////////////////////////////////////////////////
+// SUBJECTS (JEE / NEET etc)
+//////////////////////////////////////////////////////
+
+model Subject {
+  id     String @id @default(cuid())
+  name   String
+  examId String
+
+  exam Exam @relation(fields: [examId], references: [id])
+}
+
+//////////////////////////////////////////////////////
+// EXAM HANDLER
+//////////////////////////////////////////////////////
+
+model ExamHandlerExam {
+  id        String @id @default(cuid())
+  handlerId String
+  examId    String
+
+  handler User @relation(fields: [handlerId], references: [id])
+  exam    Exam @relation(fields: [examId], references: [id])
+
+  @@unique([handlerId, examId])
+}
+
+//////////////////////////////////////////////////////
+// TEST
+//////////////////////////////////////////////////////
+
+model Test {
+  id            String @id @default(cuid())
+  title         String
+  examId        String
+  duration      Int
+  totalMarks    Int
+  negativeMarks Float  @default(0)
+
+  isPaid Boolean @default(false)
+  status TestStatus @default(DRAFT)
+
+  createdAt DateTime @default(now())
+
+  exam Exam @relation(fields: [examId], references: [id])
+
+  questions   Question[]
+  attempts    Attempt[]
+  leaderboard Leaderboard[]
+
+  testSeries TestSeriesTest[]
+}
+
+//////////////////////////////////////////////////////
+// PARAGRAPH (CLAT / CAT)
+//////////////////////////////////////////////////////
+
+model Paragraph {
+  id   String @id @default(cuid())
+  text String
+
+  questions Question[]
+}
+
+//////////////////////////////////////////////////////
+// QUESTION
+//////////////////////////////////////////////////////
+
+model Question {
+  id       String @id @default(cuid())
+  question String
+
+  optionA String?
+  optionB String?
+  optionC String?
+  optionD String?
+
+  correct String?
+
+  marks Int
+
+  questionType QuestionType
+
+  difficulty Difficulty @default(MEDIUM)
+
+  paragraphId String?
+
+  paragraph Paragraph? @relation(fields: [paragraphId], references: [id])
+
+  testId String
+  test   Test @relation(fields: [testId], references: [id])
+
+  topics QuestionTopic[]
+}
+
+//////////////////////////////////////////////////////
+// TOPICS
+//////////////////////////////////////////////////////
+
+model Topic {
+  id     String @id @default(cuid())
+  name   String
+  examId String
+
+  exam Exam @relation(fields: [examId], references: [id])
+
+  questions QuestionTopic[]
+}
+
+model QuestionTopic {
+  id         String @id @default(cuid())
+  questionId String
+  topicId    String
+
+  question Question @relation(fields: [questionId], references: [id])
+  topic    Topic    @relation(fields: [topicId], references: [id])
+
+  @@unique([questionId, topicId])
+}
+
+//////////////////////////////////////////////////////
+// QUESTION POOL (for random selection)
+//////////////////////////////////////////////////////
+
+model QuestionPool {
+  id     String @id @default(cuid())
+  name   String
+  examId String
+
+  exam Exam @relation(fields: [examId], references: [id])
+}
+
+//////////////////////////////////////////////////////
+// TEST SERIES
+//////////////////////////////////////////////////////
+
+model TestSeries {
+  id     String @id @default(cuid())
+  title  String
+  examId String
+
+  isPaid Boolean @default(false)
+  price  Float?
+
+  exam Exam @relation(fields: [examId], references: [id])
+
+  tests TestSeriesTest[]
+}
+
+model TestSeriesTest {
+  id           String @id @default(cuid())
+  testSeriesId String
+  testId       String
+
+  testSeries TestSeries @relation(fields: [testSeriesId], references: [id])
+  test       Test       @relation(fields: [testId], references: [id])
+
+  @@unique([testSeriesId, testId])
+}
+
+//////////////////////////////////////////////////////
+// ATTEMPTS
+//////////////////////////////////////////////////////
+
+model Attempt {
+  id        String   @id @default(cuid())
+  userId    String
+  testId    String
+  score     Int
+  timeTaken Int?
+
+  createdAt DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id])
+  test Test @relation(fields: [testId], references: [id])
+}
+
+//////////////////////////////////////////////////////
+// LEADERBOARD
+//////////////////////////////////////////////////////
+
+model Leaderboard {
+  id        String @id @default(cuid())
+  testId    String
+  userId    String
+  score     Int
+  rank      Int
+
+  createdAt DateTime @default(now())
+
+  test Test @relation(fields: [testId], references: [id])
+  user User @relation(fields: [userId], references: [id])
+
+  @@unique([testId, userId])
+}
+
+//////////////////////////////////////////////////////
+// LIVE TEST
+//////////////////////////////////////////////////////
+
+model LiveTest {
+  id            String   @id @default(cuid())
+  title         String
+  examId        String
+  startTime     DateTime
+  duration      Int
+  questionCount Int
+
+  isPaid Boolean @default(false)
+
+  exam Exam @relation(fields: [examId], references: [id])
+
+  attempts LiveAttempt[]
+}
+
+model LiveAttempt {
+  id         String @id @default(cuid())
+  userId     String
+  liveTestId String
+  score      Int
+
+  user     User     @relation(fields: [userId], references: [id])
+  liveTest LiveTest @relation(fields: [liveTestId], references: [id])
+}
+
+//////////////////////////////////////////////////////
+// SUBSCRIPTIONS
+//////////////////////////////////////////////////////
+
+model SubscriptionPlan {
+  id          String @id @default(cuid())
+  name        String
+  price       Float
+  duration    Int
+  description String?
+
+  users UserSubscription[]
+}
+
+model UserSubscription {
+  id        String @id @default(cuid())
+  userId    String
+  planId    String
+  startDate DateTime
+  endDate   DateTime
+
+  user User @relation(fields: [userId], references: [id])
+  plan SubscriptionPlan @relation(fields: [planId], references: [id])
+}
+
+//////////////////////////////////////////////////////
+// EXAM SYLLABUS
+//////////////////////////////////////////////////////
+
+model ExamSyllabus {
+  id          String @id @default(cuid())
+  examId      String
+  subject     String
+  topic       String
+  description String?
+
+  exam Exam @relation(fields: [examId], references: [id])
+}
+📂 FINAL Project Structure
+Simple scalable Next.js App Router structure
+
+next-ranker
+│
+├ app
+│   ├ layout.tsx
+│   ├ page.tsx
+│
+│   ├ (platform)
+│   │
+│   │   ├ exams
+│   │   │   └ [examSlug]
+│   │   │       ├ page.tsx
+│   │   │       ├ tests
+│   │   │       │   └ page.tsx
+│   │   │       └ live
+│   │   │           └ page.tsx
+│   │
+│   │   ├ test
+│   │   │   └ [testId]
+│   │   │       └ page.tsx
+│   │
+│   │   └ live-test
+│   │       └ [liveTestId]
+│   │           └ page.tsx
+│
+│   ├ dashboard
+│   │   ├ admin
+│   │   │   └ page.tsx
+│   │   ├ exam-handler
+│   │   │   └ page.tsx
+│   │   └ user
+│   │       └ page.tsx
+│
+│   ├ auth
+│   │   ├ login
+│   │   │   └ page.tsx
+│   │   └ register
+│   │       └ page.tsx
+│
+│   └ api
+│       ├ auth
+│       ├ exams
+│       ├ tests
+│       ├ attempt
+│       ├ subscription
+│       └ live-tests
+│
+├ components
+│   ├ auth
+│   │   ├ LoginModal.tsx
+│   │   └ RegisterModal.tsx
+│
+│   ├ exam
+│   │   ├ ExamSidebar.tsx
+│   │   ├ ExamCard.tsx
+│   │   └ ExamHeader.tsx
+│
+│   ├ test
+│   │   ├ QuestionRenderer.tsx
+│   │   ├ MCQQuestion.tsx
+│   │   ├ ParagraphQuestion.tsx
+│   │   ├ NumericalQuestion.tsx
+│   │   └ TestPlayer.tsx
+│
+│   ├ live-test
+│   │   ├ LiveTimer.tsx
+│   │   └ LiveLeaderboard.tsx
+│
+│   └ ui
+│       ├ Button.tsx
+│       ├ Modal.tsx
+│       └ Loader.tsx
+│
+├ hooks
+│   ├ useAuth.ts
+│   ├ useTimer.ts
+│   └ useTestAttempt.ts
+│
+├ lib
+│   ├ prisma.ts
+│   ├ auth.ts
+│   ├ exams.ts
+│   └ utils.ts
+│
+├ prisma
+│   └ schema.prisma
+🧠 Key Architecture Decisions
+Exams always visible
+/ → homepage
+Sidebar → all exams
+Login only required for
+Take test
+Join live test
+Buy subscription
+View dashboard
+Question Rendering
+MCQ
+Paragraph (CLAT)
+Numerical (JEE)
+Multi Select
+Handled by:
+
+QuestionRenderer.tsx
+⚡ For V1 You Do NOT Need
+❌ Redis
+❌ Kafka
+❌ Microservices
+❌ Socket.io
+
+Just:
+
+Next.js
+Prisma
+Postgres
+Later add:
+
+Redis
+Socket
+Queue
+✅ This architecture can comfortably handle:
+
+1000+ exams
+100k+ questions
+10k+ users
+If you want, I can also show you the most important engineering part of this platform:
+
+👉 How to build the Test Taking UI (question palette, auto-save, timer, navigation)
+
+That page is the hardest part of the whole system.
+
+
+
+
