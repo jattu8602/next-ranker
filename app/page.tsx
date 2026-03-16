@@ -3,7 +3,7 @@ export default function Home() {
     <div className="flex flex-col gap-6 py-10 max-w-3xl">
       {/* Badge */}
       <div className="inline-flex w-fit items-center gap-2 px-4 py-1.5 rounded-full border bg-muted/50 text-sm font-semibold text-primary">
-        <span className="w-2 h-2 rounded-full bg-primary animate-pulse" />
+        <span className="w-2 h-2 rounded-full bg-accent animate-pulse" />
         India&apos;s #1 Exam Preparation Platform
       </div>
 
@@ -22,15 +22,15 @@ export default function Home() {
       <div className="flex items-center gap-4 mt-2">
         <a
           href="/tests"
-          className="px-6 py-3 rounded-full text-sm font-bold bg-primary text-primary-foreground shadow-lg hover:bg-primary/90 transition-all duration-300"
+          className="group px-6 py-3 rounded-full border border-transparent text-sm font-bold bg-primary text-primary-foreground shadow-lg hover:bg-primary/90 hover:scale-[1.07] hover:-translate-y-1 hover:shadow-xl active:scale-95 transition-all duration-300"
         >
-          Browse Tests →
+          <span className="inline-block group-hover:scale-110 transition-all">Browse Tests →</span>
         </a>
         <a
           href="/leaderboard"
-          className="px-6 py-3 rounded-full text-sm font-bold border border-input text-foreground hover:bg-accent transition-all duration-300"
+          className="group px-6 py-3 rounded-full text-sm font-bold border border-input text-foreground hover:bg-accent hover:text-white hover:scale-[1.07] hover:-translate-y-1 hover:shadow-xl active:scale-95 transition-all duration-300"
         >
-          View Leaderboard
+          <span className="inline-block group-hover:scale-110 transition-all">View Leaderboard</span>
         </a>
       </div>
 
@@ -42,10 +42,10 @@ export default function Home() {
           { value: "15+", label: "Exam Categories" },
         ].map((stat) => (
           <div key={stat.label} className="flex flex-col gap-0.5">
-            <span className="text-2xl font-extrabold text-foreground">
+            <span className="text-2xl font-extrabold text-primary">
               {stat.value}
             </span>
-            <span className="text-sm text-muted-foreground font-medium">{stat.label}</span>
+            <span className="text-sm text-primary/80 font-medium">{stat.label}</span>
           </div>
         ))}
       </div>
