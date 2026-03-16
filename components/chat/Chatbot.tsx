@@ -69,9 +69,9 @@ export function Chatbot() {
         <button
           type="button"
           onClick={() => setIsExpanded(false)}
-          className="flex-shrink-0 w-8 h-8 flex items-center justify-center rounded-full hover:bg-muted transition-colors text-muted-foreground hover:text-foreground"
+          className="group flex-shrink-0 w-8 h-8 flex items-center justify-center rounded-full border border-border hover:bg-muted transition-all duration-300 text-muted-foreground hover:text-foreground hover:scale-[1.07] hover:-translate-y-1 hover:shadow-xl active:scale-95"
         >
-          <Plus className="w-5 h-5" />
+          <Plus className="w-5 h-5 group-hover:scale-110 transition-all" />
         </button>
 
         {/* Input */}
@@ -86,15 +86,15 @@ export function Chatbot() {
         {/* Mic button */}
         <button
           type="button"
-          className="flex-shrink-0 w-8 h-8 flex items-center justify-center rounded-full hover:bg-muted transition-colors text-muted-foreground hover:text-foreground"
+          className="group flex-shrink-0 w-8 h-8 flex items-center justify-center rounded-full border border-border hover:bg-muted transition-all duration-300 text-muted-foreground hover:text-foreground hover:scale-[1.07] hover:-translate-y-1 hover:shadow-xl active:scale-95"
         >
-          <Mic className="w-5 h-5" />
+          <Mic className="w-5 h-5 group-hover:scale-110 transition-all" />
         </button>
 
         {/* Send / AI button */}
         <button
           type="submit"
-          className="flex-shrink-0 w-9 h-9 flex items-center justify-center rounded-full bg-primary text-primary-foreground hover:bg-primary/90 transition-colors shadow-md"
+          className="flex-shrink-0 w-9 h-9 flex items-center justify-center rounded-full bg-accent text-accent-foreground hover:bg-accent/90 transition-colors shadow-md"
         >
           {input.trim() ? <Send className="w-4 h-4" /> : <Sparkles className="w-4 h-4" />}
         </button>

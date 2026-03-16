@@ -51,10 +51,48 @@
   }
 
   body {
-    @apply bg-background text-foreground;
+    @apply bg-white text-foreground;
+    font-family: "Roboto", sans-serif;
+  }
+
+  :root {
+    --background: #fafafa;
+    --foreground: #374151;
+    --primary: #0d9488;
+    --primary-foreground: #ffffff;
+    --accent: #f43f5e;
+    --accent-foreground: #ffffff;
+    --sidebar-colorful: linear-gradient(135deg, #0d9488 0%, #0f766e 100%);
+    /* optional updated sidebar gradient */
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "Source Sans 3", sans-serif;
+    font-weight: 900;
   }
 
   html {
     @apply font-sans;
   }
+}
+
+/* Custom Font Classes */
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.source-sans-3-bold-900 {
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
 }
